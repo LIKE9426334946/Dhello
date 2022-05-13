@@ -6,3 +6,4 @@ t good
 second commit
 hot fix after this
 master master fix
+hot-fix hot-fix fix
